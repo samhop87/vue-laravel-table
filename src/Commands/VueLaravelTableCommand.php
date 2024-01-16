@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace samhop87\VueLaravelTable\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class VueLaravelTableCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'vue-laravel-table';
 
     public $description = 'My command';
 
