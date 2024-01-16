@@ -2,9 +2,9 @@
 
 namespace samhop87\VueLaravelTable;
 
+use samhop87\VueLaravelTable\Commands\VueLaravelTableCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use samhop87\VueLaravelTable\Commands\VueLaravelTableCommand;
 
 class VueLaravelTableServiceProvider extends PackageServiceProvider
 {
